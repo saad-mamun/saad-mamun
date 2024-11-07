@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saad-mamun&label=Profile%20views&color=0e75b6&style=flat" alt="saad-mamun" /> </p>
 
-- 🌱 I’m currently learning **javascript,react.js**
+- 🌱 I’m currently learning **node.js,MongoDB**
 
 - 📫 How to reach me **mamunali88991@gmail.com**
 
