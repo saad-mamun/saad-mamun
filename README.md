@@ -1,5 +1,6 @@
-# 💫 About Me:I am a passionate frontend web developer, currently expanding my skills to become a full-stack developer. With a strong foundation in UI/UX and JavaScript, I am exploring backend technologies to build seamless, end-to-end web applications. Always eager to learn and grow!
-Fiverr
+##### 💫 About Me:I am a passionate frontend web developer, currently expanding my skills to become a full-stack developer. With a strong foundation in UI/UX and JavaScript, I am exploring backend technologies to build seamless, end-to-end web applications. Always eager to learn and grow!
+
+<img src="https://www.facebook.com/photo/?fbid=1031927101717315&set=a.103993004510734" alt="Image" ><img/>
 
 
 ## 🌐 Socials:
