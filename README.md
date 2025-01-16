@@ -1,6 +1,9 @@
 ##### 💫 About Me:I am a passionate frontend web developer, currently expanding my skills to become a full-stack developer. With a strong foundation in UI/UX and JavaScript, I am exploring backend technologies to build seamless, end-to-end web applications. Always eager to learn and grow!
 
-<img src="https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/459051213_1031927155050643_8821765576003130922_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=NOwTzufa_hUQ7kNvgEQml3I&_nc_oc=AdiS_1ZL7_zKJuArUiayFz2-UFNQHBbjCig5okLT0CKzTEH2UEYtxHSuKBinbRaCMek&_nc_zt=23&_nc_ht=scontent.fdac41-1.fna&_nc_gid=AS10wuGZnktRs8--lkNDQhQ&oh=00_AYCzj11TEMx_62PLWgTIa5s-ZD-xdxuCx8EUIHcNRRkeVA&oe=678E9650" alt="Image" ><img/>
+<img 
+  src="https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/459051213_1031927155050643_8821765576003130922_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=NOwTzufa_hUQ7kNvgEQml3I&_nc_oc=AdiS_1ZL7_zKJuArUiayFz2-UFNQHBbjCig5okLT0CKzTEH2UEYtxHSuKBinbRaCMek&_nc_zt=23&_nc_ht=scontent.fdac41-1.fna&_nc_gid=AS10wuGZnktRs8--lkNDQhQ&oh=00_AYCzj11TEMx_62PLWgTIa5s-ZD-xdxuCx8EUIHcNRRkeVA&oe=678E9650" 
+  alt="Image"
+  style="height:"380px"><img/>
 
 
 ## 🌐 Socials:
