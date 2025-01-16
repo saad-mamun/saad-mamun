@@ -2,7 +2,7 @@
 <h3>I am a passionate web developer </h3>
 
 <img 
-  src="https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/459051213_1031927155050643_8821765576003130922_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=NOwTzufa_hUQ7kNvgEQml3I&_nc_oc=AdiS_1ZL7_zKJuArUiayFz2-UFNQHBbjCig5okLT0CKzTEH2UEYtxHSuKBinbRaCMek&_nc_zt=23&_nc_ht=scontent.fdac41-1.fna&_nc_gid=AS10wuGZnktRs8--lkNDQhQ&oh=00_AYCzj11TEMx_62PLWgTIa5s-ZD-xdxuCx8EUIHcNRRkeVA&oe=678E9650" 
+  src="https://scontent.fdac41-2.fna.fbcdn.net/v/t39.30808-6/473769979_1118523853057639_4977477542896064446_n.png?_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=0zjhEjA8FIAQ7kNvgGfkFae&_nc_oc=Adj3TxuxX-mxq-_lTsH_NWah3nGZ9rLbVnfjk0EBasJAcNzNDk62ipYuO3ngPEpNGd0&_nc_zt=23&_nc_ht=scontent.fdac41-2.fna&_nc_gid=A8GPX8U_nuLS4SArkSf4PVT&oh=00_AYDi4sq9o-tWLPiZQFyHk3BDXzBKJUe9k_OCX7MpiG4_3w&oe=678EAC61" 
   alt="Image"><img/>
 ##### 💫 About Me:I am a passionate frontend web developer, currently expanding my skills to become a full-stack developer. With a strong foundation in UI/UX and JavaScript, I am exploring backend technologies to build seamless, end-to-end web applications. Always eager to learn and grow!
 
