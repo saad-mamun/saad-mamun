@@ -20,7 +20,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=saad-mamun&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 <h3>Dev Quote<h3/>
-<h5 style=" width:400px,  padding:10px ">Web development is a journey of creativity and innovation. Every line of code builds solutions, every challenge sharpens skills. Stay curious, keep learning, and create impact!</h5>
+<h5>Web development is a journey of creativity and innovation. Every line of code builds solutions, every challenge sharpens skills. Stay curious, keep learning, and create impact!</h5>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=saad-mamun&limit=5&theme=dark&combine_all_yearly_contributions=true)
