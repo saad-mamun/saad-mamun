@@ -2,7 +2,7 @@
 <h3>I am a passionate web developer </h3>
 
 <img 
-  src="https://www.facebook.com/photo/?fbid=1138102964433061&set=a.103993004510734" 
+  src="<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto%2F%3Ffbid%3D1138102964433061%26set%3Da.103993004510734&show_text=true&width=500" width="500" height="355" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>" 
   alt="Image"><img/>
 ##### 💫 About Me:I am a passionate frontend web developer, currently expanding my skills to become a full-stack developer. With a strong foundation in UI/UX and JavaScript, I am exploring backend technologies to build seamless, end-to-end web applications. Always eager to learn and grow!
 
