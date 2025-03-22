@@ -2,9 +2,9 @@
 <h3>I am a passionate web developer </h3>
 
 <img 
-  src="https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/480230359_1138102967766394_8150422239519202882_n.png?_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHple0uKvrIRoZWyPgCEAReRiH110yZq61GIfXXTJmrrXNxWKUs_9rCyPdeHkxIyX61Y1VLS7khWxTNl8gT8ITl&_nc_ohc=_8qL9FNIHCIQ7kNvgE-hiDh&_nc_oc=AdgEzkRm1oZsGzT-naXjHlDaaAR4DAyJuHpGaUYKeNSbW91ESVfzkwaN4CJ-sLWU18w&_nc_zt=23&_nc_ht=scontent.fdac41-1.fna&_nc_gid=A9sZnIuKF7hXkRVaorlto_7&oh=00_AYBJ5puGxYSwa07-u-OXZ51cweUq_VK1Ca_WsAj7EuVMlQ&oe=67BBCC49" 
+  src="https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/480230359_1138102967766394_8150422239519202882_n.png?_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=0fwTatj0ZxsQ7kNvgHV1Vir&_nc_oc=AdmLYlmz1cSVZ0bUbUaM0Lmc7YhVd0eh0yxEAERSrQgZBGkbNsnFsME5cH6bGXVSeQk&_nc_zt=23&_nc_ht=scontent.fdac41-1.fna&_nc_gid=gjlQ5a_jDPw186hETpClKg&oh=00_AYEUcTFEbn43UY-yH_y4ter4OUcmYuUFLX6pL6izWPd5GA&oe=67E4AAC9" 
   alt="Image"><img/>
-##### 💫 About Me:I am a passionate frontend web developer, currently expanding my skills to become a full-stack developer. With a strong foundation in UI/UX and JavaScript, I am exploring backend technologies to build seamless, end-to-end web applications. Always eager to learn and grow!
+##### 💫 About Me: I am a passionate frontend web developer, currently expanding my skills to become a full-stack developer. With a strong foundation in UI/UX and JavaScript, I am exploring backend technologies to build seamless, end-to-end web applications. Always eager to learn and grow!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me) 
